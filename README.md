@@ -1,16 +1,37 @@
-## Hi there 👋
+💫 About Me:
+Hi, I’m Prashant 👋
 
-<!--
-**Prashant9998/Prashant9998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+🔐 Interested in Cybersecurity, Ethical Hacking & Malware Analysis
+🤖 Exploring AI, Automation and Security Tools
+💻 Building projects related to security research and system automation
 
-Here are some ideas to get you started:
+⚡ Currently Learning:
+- Ethical Hacking
+- Malware Analysis & Reverse Engineering
+- OSINT Techniques
+- Python for Security Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals:
+To become a skilled cybersecurity researcher and build impactful security tools.
+
+📫 Connect with me:
+LinkedIn | GitHub
+
+🌐 Socials:
+LinkedIn email
+
+💻 Tech Stack:
+C C++ HTML5 JavaScript CSS3 Python Oracle Heroku Django FastAPI React TailwindCSS Apache Supabase MySQL MongoDB Canva Figma Matplotlib NumPy Pandas Git GitHub Steam Ubisoft nVIDIA Xbox
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote

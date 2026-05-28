@@ -2,6 +2,7 @@
 Hi, I'm Prashant 👋  <br><br>🎓 Computer Science Student  <br>🔐 Interested in Cybersecurity, Ethical Hacking & Malware Analysis  <br>🤖 Exploring AI, Automation and Security Tools  <br>💻 Building projects related to security research and system automation  <br><br>⚡ Currently Learning:<br>- Ethical Hacking<br>- Malware Analysis & Reverse Engineering<br>- OSINT Techniques<br>- Python for Security Tools<br><br>🚀 Goals:<br>To become a skilled cybersecurity researcher and build impactful security tools.<br><br>📫 Connect with me:  <br>LinkedIn | GitHub
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashant-shukla-aba162230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashantshukla3600@gmail.com) 
 
